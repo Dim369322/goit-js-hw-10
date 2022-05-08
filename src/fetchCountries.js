@@ -6,5 +6,4 @@ export function fetchCountries(countryName){
     }
     return response.json();
   });
-}
- 
+} 
